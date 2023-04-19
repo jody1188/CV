@@ -43,6 +43,22 @@
 
 | 제목 | 링크 | 
 | :------: | :------: |
+|Transformer-XL : Attentive Language Models Beyond a Fixed-Length Context|[링크](https://velog.io/@jody1188/Transformer-XL-Attentive-Language-Models-Beyond-a-Fixed-Length-Context)|
+|MobileViT - Version 1, 2|[링크](https://velog.io/@jody1188/MobileViT-Version-1-2)|
+|Vision Transformer & ViTPose|[링크](https://velog.io/@jody1188/Vision-Transformer-VITPose)|
+|DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRF|[링크](https://velog.io/@jody1188/DeepLab-Semantic-Image-Segmentation-with-Deep-Convolutional-Nets-Atrous-Convolution-and-Fully-Connected-CRF)|
+|Object Tracking + Simple Online and Realtime Tracking : SORT|[링크](https://velog.io/@jody1188/Object-Tracking-Simple-Online-and-Realtime-Tracking-SORT)|
+|Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks|[링크](https://velog.io/@jody1188/Unpaired-Image-to-Image-Translation-using-Cycle-Consistent-Adversarial-Networks)|
+|TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning|[링크](https://velog.io/@jody1188/TSDAE-Using-Transformer-based-Sequential-Denoising-Auto-Encoder-for-Unsupervised-Sentence-Embedding-Learning)|
+|DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings|[링크](https://velog.io/@jody1188/DiffCSE-Difference-based-Contrastive-Learning-for-SentenceEmbeddings)|
+|SimCSE : Simple Contrastive Learning of Sentence Embeddings|[링크](https://velog.io/@jody1188/SimCSE-Simple-Contrastive-Learning-of-Sentence-Embeddings)|
+|MUSIC COMPOSITION WITH DEEP LEARNING : A REVIEW|[링크](https://velog.io/@jody1188/MUSIC-COMPOSITION-WITH-DEEP-LEARNING)|
+|Get To The Point : Summarization with Pointer-Generator Network's|[링크](https://velog.io/@jody1188/Get-To-The-Point-Summarization-with-Pointer-Generator-Networks)|
+|Positional Encoding|[링크](https://velog.io/@jody1188/Positional-Encoding)|
+|ALBERT: A Lite BERT for Self-supervised Learning of Language Representations|[링크](https://velog.io/@jody1188/ALBERT-A-Lite-BERT-for-Self-supervised-Learning-of-Language-Representations-6nvuc1sp)|
+|BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|[링크](https://velog.io/@jody1188/Transformer)|
+|Attention is All You Need|[링크](https://velog.io/@jody1188/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding)|
+|Sequence to Sequence with Attention|[링크](https://velog.io/@jody1188/Sequence-to-Sequence-with-Attention)|
 |FastText - Enriching Word Vectors with Subword Information|[링크](https://velog.io/@jody1188/FastText-Enriching-Word-Vectors-with-Subword-Information)|
 |Backpropagation Through Time|[링크](https://velog.io/@jody1188/BPTT)|
 |GAN - Generative Adversarial Nets|[링크](https://velog.io/@jody1188/GAN-Generative-Adversarial-Nets)|
