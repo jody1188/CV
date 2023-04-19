@@ -8,6 +8,9 @@
 
 - <img src="https://img.shields.io/badge/Window-0078D6?style=flat&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Mac-000000?style=flat&logo=Macos&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 
+
+
+
 ### 📝 Education
 |기간|소속|전공|학위|비고|
 |-|-|-|-|-|
@@ -15,6 +18,9 @@
 |2021.06~~2021.12|D&A|빅데이터 학회(ML)|멤버|수료|
 |2022.01~~2022.12|ToBig's|빅데이터 연합동아리|17기|수료|
 |2023.03~|중앙대학교 IIPL연구실|인공지능 연구|학부연구생|진행중|
+
+
+
 
 
 ### 💻 Project
@@ -29,3 +35,21 @@
 |2022|NLP|산업분류 자동화 인공지능 모델 개발||
 |2021|머신러닝|설문조사 응답 여부 예측||
 |2021|머신러닝|온라인 행동 및 상품 분류 데이터를 활용한 성별/나이대 예측||
+
+
+
+### 💻 Paper review
+
+
+| 제목 | 링크 | 
+| :------: | :------: |
+
+|FastText - Enriching Word Vectors with Subword Information|[링크](https://velog.io/@jody1188/FastText-Enriching-Word-Vectors-with-Subword-Information)|
+|Backpropagation Through Time|[링크](https://velog.io/@jody1188/BPTT)|
+|GAN - Generative Adversarial Nets|[링크](https://velog.io/@jody1188/GAN-Generative-Adversarial-Nets)|
+|ResNet - Deep Residual Learning for Image Recognition|[링크](https://velog.io/@jody1188/ResNet-Deep-Residual-Learning-for-Image-Recognition)|
+|ELECTRA : Pre-training Text Encoders As Discriminators Rather than Generators|[링크](https://velog.io/@jody1188/ELECTRA-Pre-training-Text-Encoders-As-Discriminators-Rather-than-Generators)|
+|GPT2 - Language Models are Unsupervised Multitask Learners|[링크](https://velog.io/@jody1188/GPT2-Language-Models-are-Unsupervised-Multitask-Learners)|
+|GPT : Improving Language Understanding by Generative Pre-training|[링크](https://velog.io/@jody1188/GPT)|
+
+
