@@ -75,3 +75,4 @@
 |CS224n|[링크](https://velog.io/@jody1188/series/CS224N)|
 |DSP Basic|[링크](https://velog.io/@jody1188/1.-DSP-Basic)|
 |Tensor Manipulation|[링크](https://velog.io/@jody1188/Tensor-Manipulation)|
+|BERT from Scratch|[링크](https://velog.io/@jody1188/Tensor-Manipulation)|
