@@ -69,6 +69,7 @@
 
 
 ### 💻 Study review
+| 제목 | 링크 | 
 | :------: | :------: |
 |Linear Algebra|[링크](https://velog.io/@jody1188/series/Linear-Algebra)|
 |CS224n|[링크](https://velog.io/@jody1188/series/CS224N)|
