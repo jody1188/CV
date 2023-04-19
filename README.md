@@ -38,7 +38,7 @@
 
 
 
-### 💻 Paper review
+### 📚 Paper review
 
 
 | 제목 | 링크 | 
@@ -68,7 +68,7 @@
 |GPT : Improving Language Understanding by Generative Pre-training|[링크](https://velog.io/@jody1188/GPT)|
 
 
-### 💻 Study review
+### 📚 Study review
 | 제목 | 링크 | 
 | :------: | :------: |
 |Linear Algebra|[링크](https://velog.io/@jody1188/series/Linear-Algebra)|
