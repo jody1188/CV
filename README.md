@@ -43,7 +43,6 @@
 
 | 제목 | 링크 | 
 | :------: | :------: |
-
 |FastText - Enriching Word Vectors with Subword Information|[링크](https://velog.io/@jody1188/FastText-Enriching-Word-Vectors-with-Subword-Information)|
 |Backpropagation Through Time|[링크](https://velog.io/@jody1188/BPTT)|
 |GAN - Generative Adversarial Nets|[링크](https://velog.io/@jody1188/GAN-Generative-Adversarial-Nets)|
