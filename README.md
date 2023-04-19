@@ -29,7 +29,7 @@
 |2023|NLP|Local & Global Attention을 활용한 Transformer 경량화|연구중|
 |2022|CV|MobileViT와 전이학습을 활용한 사람 자세 추정 알고리즘의 경량화|논문 작성중|
 |2022|NLP|SeqGAN을 활용한 멜로디 기반 한국어 가사 생성|논문 투고|
-|2022|음성|ZeroShot Learning과 TTS를 활용한 음성 합성||
+|2022|음성|ZeroShot Learning과 TTS를 활용한 음성 합성|[링크](https://github.com/jody1188/ZtarGAN-VC)|
 |2022|NLP|키워드의 군집화를 통한 소비자 리뷰 분석||
 |2022|NLP|영어 컨텐츠를 제주의 언어로 번역하여 직접 읽어주는 서비스|[링크](https://github.com/jody1188/jeju-blues)|
 |2022|NLP|산업분류 자동화 인공지능 모델 개발||
